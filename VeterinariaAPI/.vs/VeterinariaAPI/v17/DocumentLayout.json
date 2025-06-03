@@ -1,0 +1,457 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\VeterinariaAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE42FBC4-49D4-498E-B043-E3A5587F02C1}|VeterinariaAPI\\VeterinariaAPI.csproj|c:\\users\\usuario\\desktop\\veterinariaapi\\veterinariaapi\\controllers\\mascotascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE42FBC4-49D4-498E-B043-E3A5587F02C1}|VeterinariaAPI\\VeterinariaAPI.csproj|solutionrelative:veterinariaapi\\controllers\\mascotascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE42FBC4-49D4-498E-B043-E3A5587F02C1}|VeterinariaAPI\\VeterinariaAPI.csproj|c:\\users\\usuario\\desktop\\veterinariaapi\\veterinariaapi\\controllers\\citascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE42FBC4-49D4-498E-B043-E3A5587F02C1}|VeterinariaAPI\\VeterinariaAPI.csproj|solutionrelative:veterinariaapi\\controllers\\citascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE42FBC4-49D4-498E-B043-E3A5587F02C1}|VeterinariaAPI\\VeterinariaAPI.csproj|c:\\users\\usuario\\desktop\\veterinariaapi\\veterinariaapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE42FBC4-49D4-498E-B043-E3A5587F02C1}|VeterinariaAPI\\VeterinariaAPI.csproj|solutionrelative:veterinariaapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE42FBC4-49D4-498E-B043-E3A5587F02C1}|VeterinariaAPI\\VeterinariaAPI.csproj|c:\\users\\usuario\\desktop\\veterinariaapi\\veterinariaapi\\controllers\\detalleproductoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE42FBC4-49D4-498E-B043-E3A5587F02C1}|VeterinariaAPI\\VeterinariaAPI.csproj|solutionrelative:veterinariaapi\\controllers\\detalleproductoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE42FBC4-49D4-498E-B043-E3A5587F02C1}|VeterinariaAPI\\VeterinariaAPI.csproj|c:\\users\\usuario\\desktop\\veterinariaapi\\veterinariaapi\\dtos\\detalleproductodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE42FBC4-49D4-498E-B043-E3A5587F02C1}|VeterinariaAPI\\VeterinariaAPI.csproj|solutionrelative:veterinariaapi\\dtos\\detalleproductodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE42FBC4-49D4-498E-B043-E3A5587F02C1}|VeterinariaAPI\\VeterinariaAPI.csproj|c:\\users\\usuario\\desktop\\veterinariaapi\\veterinariaapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CE42FBC4-49D4-498E-B043-E3A5587F02C1}|VeterinariaAPI\\VeterinariaAPI.csproj|solutionrelative:veterinariaapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE42FBC4-49D4-498E-B043-E3A5587F02C1}|VeterinariaAPI\\VeterinariaAPI.csproj|c:\\users\\usuario\\desktop\\veterinariaapi\\veterinariaapi\\models\\veterinariacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE42FBC4-49D4-498E-B043-E3A5587F02C1}|VeterinariaAPI\\VeterinariaAPI.csproj|solutionrelative:veterinariaapi\\models\\veterinariacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE42FBC4-49D4-498E-B043-E3A5587F02C1}|VeterinariaAPI\\VeterinariaAPI.csproj|c:\\users\\usuario\\desktop\\veterinariaapi\\veterinariaapi\\dtos\\productodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE42FBC4-49D4-498E-B043-E3A5587F02C1}|VeterinariaAPI\\VeterinariaAPI.csproj|solutionrelative:veterinariaapi\\dtos\\productodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE42FBC4-49D4-498E-B043-E3A5587F02C1}|VeterinariaAPI\\VeterinariaAPI.csproj|c:\\users\\usuario\\desktop\\veterinariaapi\\veterinariaapi\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE42FBC4-49D4-498E-B043-E3A5587F02C1}|VeterinariaAPI\\VeterinariaAPI.csproj|solutionrelative:veterinariaapi\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE42FBC4-49D4-498E-B043-E3A5587F02C1}|VeterinariaAPI\\VeterinariaAPI.csproj|c:\\users\\usuario\\desktop\\veterinariaapi\\veterinariaapi\\dtos\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE42FBC4-49D4-498E-B043-E3A5587F02C1}|VeterinariaAPI\\VeterinariaAPI.csproj|solutionrelative:veterinariaapi\\dtos\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE42FBC4-49D4-498E-B043-E3A5587F02C1}|VeterinariaAPI\\VeterinariaAPI.csproj|c:\\users\\usuario\\desktop\\veterinariaapi\\veterinariaapi\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE42FBC4-49D4-498E-B043-E3A5587F02C1}|VeterinariaAPI\\VeterinariaAPI.csproj|solutionrelative:veterinariaapi\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE42FBC4-49D4-498E-B043-E3A5587F02C1}|VeterinariaAPI\\VeterinariaAPI.csproj|c:\\users\\usuario\\desktop\\veterinariaapi\\veterinariaapi\\dtos\\personadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE42FBC4-49D4-498E-B043-E3A5587F02C1}|VeterinariaAPI\\VeterinariaAPI.csproj|solutionrelative:veterinariaapi\\dtos\\personadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE42FBC4-49D4-498E-B043-E3A5587F02C1}|VeterinariaAPI\\VeterinariaAPI.csproj|c:\\users\\usuario\\desktop\\veterinariaapi\\veterinariaapi\\dtos\\citadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE42FBC4-49D4-498E-B043-E3A5587F02C1}|VeterinariaAPI\\VeterinariaAPI.csproj|solutionrelative:veterinariaapi\\dtos\\citadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE42FBC4-49D4-498E-B043-E3A5587F02C1}|VeterinariaAPI\\VeterinariaAPI.csproj|c:\\users\\usuario\\desktop\\veterinariaapi\\veterinariaapi\\models\\cita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE42FBC4-49D4-498E-B043-E3A5587F02C1}|VeterinariaAPI\\VeterinariaAPI.csproj|solutionrelative:veterinariaapi\\models\\cita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE42FBC4-49D4-498E-B043-E3A5587F02C1}|VeterinariaAPI\\VeterinariaAPI.csproj|c:\\users\\usuario\\desktop\\veterinariaapi\\veterinariaapi\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE42FBC4-49D4-498E-B043-E3A5587F02C1}|VeterinariaAPI\\VeterinariaAPI.csproj|solutionrelative:veterinariaapi\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE42FBC4-49D4-498E-B043-E3A5587F02C1}|VeterinariaAPI\\VeterinariaAPI.csproj|c:\\users\\usuario\\desktop\\veterinariaapi\\veterinariaapi\\veterinariaapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{CE42FBC4-49D4-498E-B043-E3A5587F02C1}|VeterinariaAPI\\VeterinariaAPI.csproj|solutionrelative:veterinariaapi\\veterinariaapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE42FBC4-49D4-498E-B043-E3A5587F02C1}|VeterinariaAPI\\VeterinariaAPI.csproj|c:\\users\\usuario\\desktop\\veterinariaapi\\veterinariaapi\\veterinariaapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CE42FBC4-49D4-498E-B043-E3A5587F02C1}|VeterinariaAPI\\VeterinariaAPI.csproj|solutionrelative:veterinariaapi\\veterinariaapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE42FBC4-49D4-498E-B043-E3A5587F02C1}|VeterinariaAPI\\VeterinariaAPI.csproj|c:\\users\\usuario\\desktop\\veterinariaapi\\veterinariaapi\\dtos\\historialmedicodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE42FBC4-49D4-498E-B043-E3A5587F02C1}|VeterinariaAPI\\VeterinariaAPI.csproj|solutionrelative:veterinariaapi\\dtos\\historialmedicodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE42FBC4-49D4-498E-B043-E3A5587F02C1}|VeterinariaAPI\\VeterinariaAPI.csproj|c:\\users\\usuario\\desktop\\veterinariaapi\\veterinariaapi\\controllers\\historialesmedicoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE42FBC4-49D4-498E-B043-E3A5587F02C1}|VeterinariaAPI\\VeterinariaAPI.csproj|solutionrelative:veterinariaapi\\controllers\\historialesmedicoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE42FBC4-49D4-498E-B043-E3A5587F02C1}|VeterinariaAPI\\VeterinariaAPI.csproj|c:\\users\\usuario\\desktop\\veterinariaapi\\veterinariaapi\\dtos\\mascotadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE42FBC4-49D4-498E-B043-E3A5587F02C1}|VeterinariaAPI\\VeterinariaAPI.csproj|solutionrelative:veterinariaapi\\dtos\\mascotadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE42FBC4-49D4-498E-B043-E3A5587F02C1}|VeterinariaAPI\\VeterinariaAPI.csproj|c:\\users\\usuario\\desktop\\veterinariaapi\\veterinariaapi\\models\\historialmedico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE42FBC4-49D4-498E-B043-E3A5587F02C1}|VeterinariaAPI\\VeterinariaAPI.csproj|solutionrelative:veterinariaapi\\models\\historialmedico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE42FBC4-49D4-498E-B043-E3A5587F02C1}|VeterinariaAPI\\VeterinariaAPI.csproj|c:\\users\\usuario\\desktop\\veterinariaapi\\veterinariaapi\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE42FBC4-49D4-498E-B043-E3A5587F02C1}|VeterinariaAPI\\VeterinariaAPI.csproj|solutionrelative:veterinariaapi\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE42FBC4-49D4-498E-B043-E3A5587F02C1}|VeterinariaAPI\\VeterinariaAPI.csproj|c:\\users\\usuario\\desktop\\veterinariaapi\\veterinariaapi\\controllers\\personascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE42FBC4-49D4-498E-B043-E3A5587F02C1}|VeterinariaAPI\\VeterinariaAPI.csproj|solutionrelative:veterinariaapi\\controllers\\personascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE42FBC4-49D4-498E-B043-E3A5587F02C1}|VeterinariaAPI\\VeterinariaAPI.csproj|c:\\users\\usuario\\desktop\\veterinariaapi\\veterinariaapi\\models\\mascota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE42FBC4-49D4-498E-B043-E3A5587F02C1}|VeterinariaAPI\\VeterinariaAPI.csproj|solutionrelative:veterinariaapi\\models\\mascota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{25f7e850-ffa1-11d0-b63f-00a0c922e851}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CitasController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\VeterinariaAPI\\VeterinariaAPI\\Controllers\\CitasController.cs",
+              "RelativeDocumentMoniker": "VeterinariaAPI\\Controllers\\CitasController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\VeterinariaAPI\\VeterinariaAPI\\Controllers\\CitasController.cs",
+              "RelativeToolTip": "VeterinariaAPI\\Controllers\\CitasController.cs",
+              "ViewState": "AQIAAM8AAAAAsGiuuMsrwAcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T19:49:13.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DetalleProductoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\VeterinariaAPI\\VeterinariaAPI\\DTOs\\DetalleProductoDTO.cs",
+              "RelativeDocumentMoniker": "VeterinariaAPI\\DTOs\\DetalleProductoDTO.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\VeterinariaAPI\\VeterinariaAPI\\DTOs\\DetalleProductoDTO.cs",
+              "RelativeToolTip": "VeterinariaAPI\\DTOs\\DetalleProductoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T20:43:26.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\VeterinariaAPI\\VeterinariaAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "VeterinariaAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\VeterinariaAPI\\VeterinariaAPI\\appsettings.json",
+              "RelativeToolTip": "VeterinariaAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAACWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-29T04:03:47.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VeterinariaContext.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\VeterinariaAPI\\VeterinariaAPI\\Models\\VeterinariaContext.cs",
+              "RelativeDocumentMoniker": "VeterinariaAPI\\Models\\VeterinariaContext.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\VeterinariaAPI\\VeterinariaAPI\\Models\\VeterinariaContext.cs",
+              "RelativeToolTip": "VeterinariaAPI\\Models\\VeterinariaContext.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T19:47:05.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MascotasController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\VeterinariaAPI\\VeterinariaAPI\\Controllers\\MascotasController.cs",
+              "RelativeDocumentMoniker": "VeterinariaAPI\\Controllers\\MascotasController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\VeterinariaAPI\\VeterinariaAPI\\Controllers\\MascotasController.cs",
+              "RelativeToolTip": "VeterinariaAPI\\Controllers\\MascotasController.cs",
+              "ViewState": "AQIAAEMAAAAAXDQvXgEUwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T19:49:50.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\VeterinariaAPI\\VeterinariaAPI\\Program.cs",
+              "RelativeDocumentMoniker": "VeterinariaAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\VeterinariaAPI\\VeterinariaAPI\\Program.cs",
+              "RelativeToolTip": "VeterinariaAPI\\Program.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAgwEMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T23:05:30.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DetalleProductosController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\VeterinariaAPI\\VeterinariaAPI\\Controllers\\DetalleProductosController.cs",
+              "RelativeDocumentMoniker": "VeterinariaAPI\\Controllers\\DetalleProductosController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\VeterinariaAPI\\VeterinariaAPI\\Controllers\\DetalleProductosController.cs",
+              "RelativeToolTip": "VeterinariaAPI\\Controllers\\DetalleProductosController.cs",
+              "ViewState": "AQIAAJEAAAAAAAAAAAAkwKIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T19:49:26.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\VeterinariaAPI\\VeterinariaAPI\\DTOs\\ProductoDTO.cs",
+              "RelativeDocumentMoniker": "VeterinariaAPI\\DTOs\\ProductoDTO.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\VeterinariaAPI\\VeterinariaAPI\\DTOs\\ProductoDTO.cs",
+              "RelativeToolTip": "VeterinariaAPI\\DTOs\\ProductoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T20:44:14.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductosController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\VeterinariaAPI\\VeterinariaAPI\\Controllers\\ProductosController.cs",
+              "RelativeDocumentMoniker": "VeterinariaAPI\\Controllers\\ProductosController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\VeterinariaAPI\\VeterinariaAPI\\Controllers\\ProductosController.cs",
+              "RelativeToolTip": "VeterinariaAPI\\Controllers\\ProductosController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBJwA4AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T04:37:31.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UsuarioDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\VeterinariaAPI\\VeterinariaAPI\\DTOs\\UsuarioDTO.cs",
+              "RelativeDocumentMoniker": "VeterinariaAPI\\DTOs\\UsuarioDTO.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\VeterinariaAPI\\VeterinariaAPI\\DTOs\\UsuarioDTO.cs",
+              "RelativeToolTip": "VeterinariaAPI\\DTOs\\UsuarioDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T20:45:18.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\VeterinariaAPI\\VeterinariaAPI\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "VeterinariaAPI\\Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\VeterinariaAPI\\VeterinariaAPI\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "VeterinariaAPI\\Controllers\\UsuariosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T04:38:39.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PersonaDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\VeterinariaAPI\\VeterinariaAPI\\DTOs\\PersonaDTO.cs",
+              "RelativeDocumentMoniker": "VeterinariaAPI\\DTOs\\PersonaDTO.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\VeterinariaAPI\\VeterinariaAPI\\DTOs\\PersonaDTO.cs",
+              "RelativeToolTip": "VeterinariaAPI\\DTOs\\PersonaDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T20:40:55.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CitaDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\VeterinariaAPI\\VeterinariaAPI\\DTOs\\CitaDTO.cs",
+              "RelativeDocumentMoniker": "VeterinariaAPI\\DTOs\\CitaDTO.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\VeterinariaAPI\\VeterinariaAPI\\DTOs\\CitaDTO.cs",
+              "RelativeToolTip": "VeterinariaAPI\\DTOs\\CitaDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T20:41:41.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Cita.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\VeterinariaAPI\\VeterinariaAPI\\Models\\Cita.cs",
+              "RelativeDocumentMoniker": "VeterinariaAPI\\Models\\Cita.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\VeterinariaAPI\\VeterinariaAPI\\Models\\Cita.cs",
+              "RelativeToolTip": "VeterinariaAPI\\Models\\Cita.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA1wCEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T19:48:37.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\VeterinariaAPI\\VeterinariaAPI\\DTOs\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "VeterinariaAPI\\DTOs\\LoginDTO.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\VeterinariaAPI\\VeterinariaAPI\\DTOs\\LoginDTO.cs",
+              "RelativeToolTip": "VeterinariaAPI\\DTOs\\LoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T01:02:30.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "VeterinariaAPI.http",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\VeterinariaAPI\\VeterinariaAPI\\VeterinariaAPI.http",
+              "RelativeDocumentMoniker": "VeterinariaAPI\\VeterinariaAPI.http",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\VeterinariaAPI\\VeterinariaAPI\\VeterinariaAPI.http",
+              "RelativeToolTip": "VeterinariaAPI\\VeterinariaAPI.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-06-02T01:04:38.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "VeterinariaAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\VeterinariaAPI\\VeterinariaAPI\\VeterinariaAPI.csproj",
+              "RelativeDocumentMoniker": "VeterinariaAPI\\VeterinariaAPI.csproj",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\VeterinariaAPI\\VeterinariaAPI\\VeterinariaAPI.csproj",
+              "RelativeToolTip": "VeterinariaAPI\\VeterinariaAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-02T01:09:52.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "HistorialMedicoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\VeterinariaAPI\\VeterinariaAPI\\DTOs\\HistorialMedicoDTO.cs",
+              "RelativeDocumentMoniker": "VeterinariaAPI\\DTOs\\HistorialMedicoDTO.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\VeterinariaAPI\\VeterinariaAPI\\DTOs\\HistorialMedicoDTO.cs",
+              "RelativeToolTip": "VeterinariaAPI\\DTOs\\HistorialMedicoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T20:42:26.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "HistorialesMedicosController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\VeterinariaAPI\\VeterinariaAPI\\Controllers\\HistorialesMedicosController.cs",
+              "RelativeDocumentMoniker": "VeterinariaAPI\\Controllers\\HistorialesMedicosController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\VeterinariaAPI\\VeterinariaAPI\\Controllers\\HistorialesMedicosController.cs",
+              "RelativeToolTip": "VeterinariaAPI\\Controllers\\HistorialesMedicosController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwAwAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T19:49:36.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MascotaDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\VeterinariaAPI\\VeterinariaAPI\\DTOs\\MascotaDTO.cs",
+              "RelativeDocumentMoniker": "VeterinariaAPI\\DTOs\\MascotaDTO.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\VeterinariaAPI\\VeterinariaAPI\\DTOs\\MascotaDTO.cs",
+              "RelativeToolTip": "VeterinariaAPI\\DTOs\\MascotaDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T20:10:36.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "HistorialMedico.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\VeterinariaAPI\\VeterinariaAPI\\Models\\HistorialMedico.cs",
+              "RelativeDocumentMoniker": "VeterinariaAPI\\Models\\HistorialMedico.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\VeterinariaAPI\\VeterinariaAPI\\Models\\HistorialMedico.cs",
+              "RelativeToolTip": "VeterinariaAPI\\Models\\HistorialMedico.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T20:53:26.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\VeterinariaAPI\\VeterinariaAPI\\Models\\Persona.cs",
+              "RelativeDocumentMoniker": "VeterinariaAPI\\Models\\Persona.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\VeterinariaAPI\\VeterinariaAPI\\Models\\Persona.cs",
+              "RelativeToolTip": "VeterinariaAPI\\Models\\Persona.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T19:58:52.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "PersonasController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\VeterinariaAPI\\VeterinariaAPI\\Controllers\\PersonasController.cs",
+              "RelativeDocumentMoniker": "VeterinariaAPI\\Controllers\\PersonasController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\VeterinariaAPI\\VeterinariaAPI\\Controllers\\PersonasController.cs",
+              "RelativeToolTip": "VeterinariaAPI\\Controllers\\PersonasController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAwwBMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T04:35:57.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Mascota.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\VeterinariaAPI\\VeterinariaAPI\\Models\\Mascota.cs",
+              "RelativeDocumentMoniker": "VeterinariaAPI\\Models\\Mascota.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\VeterinariaAPI\\VeterinariaAPI\\Models\\Mascota.cs",
+              "RelativeToolTip": "VeterinariaAPI\\Models\\Mascota.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T19:48:58.942Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
